@@ -11,7 +11,7 @@ body {
     padding: 50px;
 }
 .iconSquares{
-	fill: #4F463D;
+	fill: #20AEE4;
 	z-index: 10000;
 }
 .axis line {
@@ -24,6 +24,7 @@ body {
     font-size: 16px;
     font-weight: normal;
     stroke: none;
+	font-family: 'Gafata', sans-serif;
 }
 
 
