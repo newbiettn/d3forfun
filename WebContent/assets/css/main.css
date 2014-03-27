@@ -19,6 +19,12 @@ body {
     stroke: #DDDDDD;
     stroke-width: 1;
 }
+.label {
+    fill: #666666;
+    font-size: 16px;
+    font-weight: normal;
+    stroke: none;
+}
 
 
 

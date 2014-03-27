@@ -58,3 +58,9 @@ lineAxes.append("line")
 	.attr("y1", 0)
 	.attr("x2", 36)
 	.attr("y2", 0);
+
+var labels = allRadars.append("svg:text")
+	.attr("class","label")
+	.attr("text-anchor", "middle")
+	.attr("y",-38)
+	.text("Foo Country");
